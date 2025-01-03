@@ -1,2 +1,2 @@
 # projet-2
-Permettra de bosser sur tous ensemble
+Permettra de centraliser et travailler tous ensemble
